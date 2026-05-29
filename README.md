@@ -25,7 +25,7 @@ An observation of the heartbeat signals reveal that while there is a global sinu
       <img src="imgs/image.png" alt="Description of first image" width="100%">
     </td>
     <td>
-      <img src="image2.png" alt="Description of second image" width="100%">
+      <img src="imgs/image2.png" alt="Description of second image" width="100%">
     </td>
   </tr>
 </table>
